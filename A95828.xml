@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A loving and loyall speech spoken unto the excellency of our noble Prince Charles: by Sir Hugh Yaughan [sic] the 2. of October at Ragland-Castle in Munmoth-shire in Wales, as his happy accesse and comming thither. Also the manner of his brave entertainment, and a relation of divers rich presents brought unto him by the gentry and communalty of countrey, humbly tending their true service to their prince: with the princes speech, giving them hearty thanks for their kind expressions of their love. Sent from a gentleman of that country, to one M. Francis Meredith, unto M. Henry Roberts, belonging to the Custome-house. London.</title>
+            <author>Vaughan, Hugh, Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95828</idno>
+            <idno type="STC">Wing V129</idno>
+            <idno type="STC">Thomason E122_16</idno>
+            <idno type="STC">ESTC R19400</idno>
+            <idno type="EEBO-CITATION">99860659</idno>
+            <idno type="PROQUEST">99860659</idno>
+            <idno type="VID">112784</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95828)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112784)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E122[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A loving and loyall speech spoken unto the excellency of our noble Prince Charles: by Sir Hugh Yaughan [sic] the 2. of October at Ragland-Castle in Munmoth-shire in Wales, as his happy accesse and comming thither. Also the manner of his brave entertainment, and a relation of divers rich presents brought unto him by the gentry and communalty of countrey, humbly tending their true service to their prince: with the princes speech, giving them hearty thanks for their kind expressions of their love. Sent from a gentleman of that country, to one M. Francis Meredith, unto M. Henry Roberts, belonging to the Custome-house. London.</title>
+                  <author>Vaughan, Hugh, Sir.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Johnson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>A variant has: "countrey, one" in line 15 on title page.</note>
+                  <note>Annotation on Thomason copy: "Octo: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112784:1" rendition="simple:additions"/>
+            <p>A Loving and Loyall SPEECH Spoken unto the Excellency of our Noble Prince CHARLES: By Sir <hi>Hugh Yaughan</hi> the 2. of <hi>October</hi> at <hi>Ragland-Caſtle</hi> in <hi>Munmoth-ſhire</hi> in WALES, at His happy Acceſſe and comming thither.</p>
+            <p>Alſo the manner of his brave entertainment, and a Relation of divers rich Preſents brought unto him by the Gentry and Communalty of the Countrey, Humbly tendring their true ſervice to their <hi>PRINCE:</hi> With the PRINCES Speech, giving them hearty Thanks for their kind Expreſſions of their Love.</p>
+            <p>Sent from a Gentleman of that Country, to one M. <hi>Francis Meredith,</hi> unto M. <hi>Henry Roberts,</hi> belonging to the Cuſtome-Houſe. <hi>LONDON.</hi>
+            </p>
+            <p>Printed for <hi>John Johnſon.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:112784:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:112784:2"/>
+            <head>A loving and loyall Speech ſpoken un<g ref="char:EOLhyphen"/>to the Excellency of our noble Prince <hi>Charles,</hi> by Sir <hi>Hugh Yaughan</hi> the 2. of <hi>October,</hi> at Ragland-Caſtle in Munmoth-ſhire in <hi>Wales.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>His Country of Wales is ſo filled with joy, by the gracious preſence of you their hopefull Prince <hi>Charles,</hi> ſo that they know not how to ſhew it outward<g ref="char:EOLhyphen"/>ly, or to ſpeake unto you in ſuch lan<g ref="char:EOLhyphen"/>guage as may declare their unfained and hearty gladneſſe by your approach and reſidence here in Ragland-Caſtle: The Genius of that ancient building doth ſeeme to rejoyce, and the Wals are now become a Cabinet to keep and preſerve the eldeſt jew<g ref="char:EOLhyphen"/>ell of the Royall Progeny, and our dearly beloved Prince <hi>Charles.</hi> It is the glory of the Britaines, that we are the two remaining and only one people of this Land, and we have alwayes been true in our affections to our King and Coun<g ref="char:EOLhyphen"/>trey, the eldeſt Sonne of our gracious Soveraigne having ſo near Relation unto us as to be our Prince, and the Prince we now behold with teares of joy, with hearts overflowing with an inundation of love, with wiſhes, with deſires, and fervent prayers, That Heaven would be a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wayes auſpicious to our King and Prince <hi>Charles.</hi> We know no Sun that can with the influence of Royall beames, cheriſh and warme
+<pb n="4" facs="tcp:112784:3"/>our true Britiſh hearts; But the Sun of our gracious So<g ref="char:EOLhyphen"/>veraigne, who now doth ſhine in the Horiſon of Wales: We have no happineſſe nor hope but what we derive from your gracious Aſpect, &amp; we reckon it amongſt the greateſt favours that divine Providence could doe us, to ſend you our hopefull Prince amongſt us. In what the true and anci<g ref="char:EOLhyphen"/>ent Britaines may ſerve you, you may command us to our uttermoſt ſtrength, our lives and Fortuues to be ready to aſſiſt you, the King and the Parliament, in all juſt actions, that none may ſuffer by the malignity of ſome ill-affected perſons. Our loves, deare Sir, are ſo true and firme to your Princely Perſon, ſo that all we can promiſe cannot declare how ready we will be to actuate and expreſſe our love in re<g ref="char:EOLhyphen"/>all performances. The common people with hands and hearts are ready to help you in all honourable attempts, and our Gentry will ſhew their ancient virtue and valour in your ſervice, and becauſe we will not trouble you with further Proteſtations of our reall intentions, we will con<g ref="char:EOLhyphen"/>conclude this briefe Narration with prayers to God to bleſſe and preſerve you: And the Generall voice of this Countrey doth by this Speech bid you thrice welcome to WALES.</p>
+         </div>
+         <div type="description_of_Prince_Charles_entertainment">
+            <pb n="5" facs="tcp:112784:3"/>
+            <head>The manner of Prince CHARLES his entertainment in <hi>Rogland-Caſtle</hi> in Wales.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S the Welſh-men did in many verball Congratulations manifeſt the true love and affections of the Britiſh hearts unto Prince <hi>Charles,</hi> now kee<g ref="char:EOLhyphen"/>ping Court at Ragland-Caſtle. So to make their words true expreſſions of their love and ambition to ſerve the Prince, they did with cheerfull for<g ref="char:EOLhyphen"/>wardneſſe make divers ſubſtantiall demonſtrations of their profeſſed affection; Love is alwayes active, and deſires to be be knowne and underſtood by ſignes, by evidences, and ma<g ref="char:EOLhyphen"/>ny officious actions, it will appeare and be viſible: And this was manifeſt by Prince <hi>Charles</hi> his late entertainment at Ragland-Caſtle in Wales; Which was performed with much ſolemnity; the Caſtle was prepared and made ready for his comming before his approach thither, ſome of the chiefe roomes were richly hung with cloth of Arras, full of lively Figures and ancient Britiſh Stories; all the other fur<g ref="char:EOLhyphen"/>niture was rich and coſtly: At the firſt entring into the Caſtle, the aforeſaid Speech was by a perſon of good ranke and quality ſpoke before the Prince, who in thankfulneſſe gave them a briefe anſwer in teſtimony of his accepting their love and tendred ſervice; And beſides, honoured the
+<pb n="6" facs="tcp:112784:4"/>Knight that delivered the aforeſaid Speech by reaching forth his hand to kiſſe, whereon the Knight imprinted a kiſſe as the zeale of his affection: Then there was a great Feaſt of divers varieties, eſpecially of Fowle, whereof their abundance in thoſe Countries, and all this preparation did conclude in a curious Banquet, while Metheglin and other Britiſh drinks were plentifully affourded unto all the Courtiers: For the Welſh-men are of a true generous diſ<g ref="char:EOLhyphen"/>poſition, and when they are to give entertainment to com<g ref="char:EOLhyphen"/>mon ſtrangers, they will performe it with much civill cour<g ref="char:EOLhyphen"/>teſie; but eſpecially now having the happineſſe to ſee their young hopefull Prince in the heart of their County, they could not endeavour enough (as they thought) to make it appeare that with all cordiall and hearty affection, the Prince was moſt nobly welcome into Wales, they ſhewed a glimpſe of their true Britiſh love to the King and Prince in the aforeſaid Speech, congratulating his comming into the County, promiſing him to be his true and faithfull ſer<g ref="char:EOLhyphen"/>vants, and after they had feaſted him and all his Court in a liberall, free and magnificent manner, they remembred that it was an ancient cuſtome to offer Preſents unto Prin<g ref="char:EOLhyphen"/>ces to gratulate their acceſſe and comming into a County. Whereupon, to declare that their love was not barren like the Sea-ſands, which yeelds nothing, but that as their Countrey was plentifull, abounding with all ſorts of pro<g ref="char:EOLhyphen"/>viſion, ſo their hearts were large and liberall, as became them who are acknowledged to be the ancient true Bri<g ref="char:EOLhyphen"/>taines, and to make their native liberallity apparent, they as ſoone as the Prince was come to Radnor-Caſtle, brought unto him divers rich Preſents, and with many expreſſions of love preſented them to the Prince, ſome brought him peeces of plate of great antiquity, as might appeare by the
+<pb n="7" facs="tcp:112784:4"/>faſhion thereof; The common people brought in proviſion for the maintenance of his Court, as young Kids, Sheep, Calves, Fiſh and Fowle of all ſorts, and ſome ſent in fat Oxen, every one ſtriving for the credit and glory of their Countrey, to exceed in ſeverall expreſſions of generous li<g ref="char:EOLhyphen"/>berallity. One Maſter <hi>Lewis-ap-Morgan</hi> a private Gentle<g ref="char:EOLhyphen"/>man ſent the Prince a peece of plate, with his Armes en<g ref="char:EOLhyphen"/>graven thereon, being very maſſy and of great value, other Gentlemen and Squires of the County of Radnor-ſhire being deſcended of ancient Families, came bravely moun<g ref="char:EOLhyphen"/>ted to the Princes Court at Radnor-Caſtle, and there pre<g ref="char:EOLhyphen"/>ſented him with divers teſtimonies of their true good will and affection, every one in the delivery of his preſent de<g ref="char:EOLhyphen"/>ſiring, are wiſhing all accumulations of happineſſe unto their noble and gracious Prince <hi>Charles,</hi> offering together with their Preſents their ſervice unto him, and promiſing to aſſiſt him and his Royall Father King <hi>Charles</hi> upon any lawfull deſigne, to the maintenance, juſtice, piety and Reli<g ref="char:EOLhyphen"/>gion, and defend their perſons from all malignants and ene<g ref="char:EOLhyphen"/>mies. The Prince being thus entertained and nobly uſed by the Welſh men, he ſhewed himſelfe very gracious and loving unto them, and becauſe he could not give particular thanks unto every perſon that preſented gifts unto him; therefore in a great Aſſembly of Lords, Knights, Squires, Gentlemen, and many common people, the Prince made a very loving Speech unto them, and to gratifie their libe<g ref="char:EOLhyphen"/>rallity, and remunerate their bounty, he in this brief Speech following, rendred them hearty thanks for their Preſents offered to him, and for the tender of their ſervice upon all good occaſions.</p>
+         </div>
+         <div type="speech">
+            <pb n="8" facs="tcp:112784:5"/>
+            <head>The Princes ſpeech at Rigland-Caſtle in WALES.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Have heard formerly of the great minds, the true affections and meanings of the ancient Britaines: But my kinde enter<g ref="char:EOLhyphen"/>tainment hath made me confide in your love, which I ſhall alwayes remember. I give you commendations, praiſe and thanks for your love, your bounty and liberall enterainment, I know you deſire nothing but thanks, you ſhal be ſure of that my favour as long as I am Prince of <hi>WALES.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
